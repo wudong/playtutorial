@@ -1,0 +1,6 @@
+application.name = 产品目录
+
+ena = ENA
+name = 产品名
+description = 产品描述
+products.details = 产品 : {0}
